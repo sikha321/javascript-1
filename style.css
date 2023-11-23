@@ -1,0 +1,23 @@
+body{
+    background-color: white; 
+
+    background-image:url("https://th.bing.com/th/id/OIP.Z7BTnUQOh_TNqoU6t7338wHaFj?w=236&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7 ") ;
+
+} 
+
+h1 {
+    color :black  ;
+    text-align :center ;
+} 
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+   
+  td, th {
+    border: 1px solid #020202;
+    text-align: left;
+    padding: 8px;
+  }
+   
